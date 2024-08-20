@@ -38,4 +38,4 @@ May life be kind to every one of us.
 **(Except for Chang Ming. 常 明 除 外)**
 
 ## License
-Free Bing-Yue is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
+Free Bing-Yue is licensed under the [MIT license.](https://github.com/aliceamamiya/free-bingyue/blob/master/LICENSE.txt)
